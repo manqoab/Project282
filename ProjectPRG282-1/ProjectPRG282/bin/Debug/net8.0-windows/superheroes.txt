@@ -1,3 +1,0 @@
-32,Moffat,25,Super Speed,38,C-Rank,Pop Quiz (potential threat to an individual student)
-ID:5, Name:OKOK, Age:12, Superpower:AIIR, Exam Score:45, Rank:B-Rank,Threat Level:Group Project Gone Wrong (threat to a study group)
-ID:45, Name:Trap, Age:34, Superpower:Trapper, Exam Score:56, Rank:B-Rank,Threat Level:Group Project Gone Wrong (threat to a study group)
