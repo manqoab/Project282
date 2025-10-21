@@ -1,0 +1,32 @@
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.exe
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.deps.json
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.runtimeconfig.json
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.dll
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.pdb
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.MainForm.resources
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.csproj.GenerateResource.cache
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.AssemblyInfoInputs.cache
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.AssemblyInfo.cs
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.csproj.CoreCompileInputs.cache
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.dll
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\refint\ProjectPRG282.dll
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.pdb
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.genruntimeconfig.cache
+C:\Users\phaka\OneDrive - belgiumcampus.ac.za\Desktop\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ref\ProjectPRG282.dll
+C:\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.exe
+C:\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.deps.json
+C:\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.runtimeconfig.json
+C:\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.dll
+C:\Prg282 project file\ProjectPRG282\bin\Debug\net8.0-windows\ProjectPRG282.pdb
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.MainForm.resources
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.csproj.GenerateResource.cache
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.AssemblyInfoInputs.cache
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.AssemblyInfo.cs
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.csproj.CoreCompileInputs.cache
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.dll
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\refint\ProjectPRG282.dll
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.pdb
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ProjectPRG282.genruntimeconfig.cache
+C:\Prg282 project file\ProjectPRG282\obj\Debug\net8.0-windows\ref\ProjectPRG282.dll
